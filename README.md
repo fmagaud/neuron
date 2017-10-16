@@ -1,2 +1,2 @@
 # neuron
-simulation of a neuron
+simulation of 2 neurons
